@@ -5,7 +5,7 @@
         "nombre": "Licht Bach", 
         "kanji": "リヒトー=バッハ" ,
         "edad": 300,
-        "countC" : "20,000,000 ", 
+        "countC" : "20,000,000", 
         "countS" : [{
             "firstcount": ["-999 (former)", "-1,000 (former)", "-1,002 (current)"],
             "secondcount": ["5,700 (former)", "57,000 (former, empowered)", "300,000 (current)", "1,500,000 (current, 5x empowered)", "3,000,000 (current, 10x empowered)", "20,000,000 (current, 65x empowered)"]
@@ -18,8 +18,10 @@
         "nombre": "Hina Farrow",
          "kanji": "陽菜=ファロウ" ,
          "edad": 23,
-         "countC" : "763 (current)",
-         "countS" : ["441 (formerly)", "760 (formerly)", "763 (current)"],
+         "countC" : "763",
+         "countS" : [{
+            "firstcount" : ["441 (formerly)", "760 (formerly)", "763 (current)"]
+        }],
          "especie" : "Humano",
          "img" : "https://i.imgur.com/W669yI5.png",
          "Arma" : "None"},
