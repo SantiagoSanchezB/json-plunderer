@@ -5,6 +5,9 @@
         "nombre": "Licht Bach", 
         "kanji": "リヒトー=バッハ" ,
         "edad": 300,
+        "personality" :  "He is enigmatic as far as intentions go. He does his best to conceal that he is a Baron, but his overwhelming power and inability to allow others to suffer causes him to reveal himself often.
+        Hes also shamelessly perverted and needy in an almost comical way. He could be considered mischievous upon first meeting. He is used to girls denying him and being hated, facing the truth with a stone face.
+        When he takes on the true power of his Ballot, his personality shifts to an unwavering bloodlust and desire to kill all enemies.",
         "countC" : "20,000,000", 
         "countS" : [{
             "firstcount": ["-999 (former)", "-1,000 (former)", "-1,002 (current)"],
