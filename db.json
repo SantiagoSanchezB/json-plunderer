@@ -5,9 +5,10 @@
         "nombre": "Licht Bach", 
         "kanji": "リヒトー=バッハ" ,
         "edad": 300,
-        "count" : [{
+        "countC" : "20,000,000 ", 
+        "countS" : [{
             "firstcount": ["-999 (former)", "-1,000 (former)", "-1,002 (current)"],
-            "cecondcount": ["5,700 (former)", "57,000 (former, empowered)", "300,000 (current)", "1,500,000 (current, 5x empowered)", "3,000,000 (current, 10x empowered)", "20,000,000 (current, 65x empowered)"]
+            "secondcount": ["5,700 (former)", "57,000 (former, empowered)", "300,000 (current)", "1,500,000 (current, 5x empowered)", "3,000,000 (current, 10x empowered)", "20,000,000 (current, 65x empowered)"]
         }],
         "especie" : "Humano Modificado(ACE)",
         "img" : "https://i.imgur.com/WprmPhR.png",
