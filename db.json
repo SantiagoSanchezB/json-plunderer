@@ -19,6 +19,7 @@
         "nombre": "Hina Farrow",
          "kanji": "陽菜=ファロウ" ,
          "edad": 23,
+         "personality": "Hina is easily pinned for being naive. Sheltered as a child and only living with her mother at the time rendered her easily trusting others and being ignorant of the evils in the world. She is also slow to understanding social norms she was raised without. Hina is a very whole-hearted girl who wishes to protect those her faith is in. She is devoid of cruelty and loathes seeing it and being unable to put a stop to it. Though she is physically unable to, her intention and willingness to put herself in harm's way to prevent others from getting hurt are exceedingly high. She is very driven and once she puts her mind to something, she keeps to it. However, she is rather timid and gets flustered easily. Hina is very in touch with her emotions and cries freely despite what others may think. There is no shame in her being empathetic and sensitive, ultimately. She knows deep down what morals she holds onto. Right before she left the past to come back to the present time, Hina first confessed her love by kissing a devastated Licht (his past self), and she then promised him, if he doesn't crumble down until they meet again (i.e. 300 years later) she would bear his children and never let him be alone. Back in the present, she started to openly show her love for him and become very adamant to fulfill the promise of bearing Licht's children, to the point that she uses almost every opportunity to try to seduce him, sometimes not even caring about her surroundings. She even tries to 'attack' him on the toilet as it's the place where he's most defenseless. ",
          "countC" : "763",
          "countS" : [{
             "firstcount" : ["441 (formerly)", "760 (formerly)", "763 (current)"]
@@ -26,84 +27,107 @@
          "especie" : "Humano",
          "img" : "https://i.imgur.com/W669yI5.png",
          "Arma" : "None"},
-        {"id":3,
 
+        {"id":3,
         "nombre": "Nana Bassler", 
-        "kanji": "" ,
+        "kanji": "ナナ=バスーラ" ,
         "edad": 300,
+        "personality": "Nana is a kind woman, but it is not her defining trait as she is visibly stern and unafraid of holding her own via carrying herself with respect and dignity. She is more well rounded than those around her, making her to appear seemingly ordinary and more relatable.Her class and knowledgeable attitude is more than what a mobile bar owner leads onto be. ",
         "countC" : "1",
+        "countS" : [{
+            "firstcount" : ["77 (fake)", "56 (formerly)", "6 (formerly)", "1 (current)"]
+        }],
         "especie" : "Humano Modificado(ACE)",
         "img" : "https://i.imgur.com/zXQNotl.png",
         "Arma" : "None"},
 
         {"id":4,
         "nombre": "Sakai Tokikaze", 
-        "kanji": "" ,
+        "personality": "Sakai Tokikaze is a brave and determined character. His main motivation is to seek answers and justice in a world that has undergone a drastic transformation. As the story progresses, he demonstrates a strong determination to protect those he cares about and confront the challenges that arise." ,
         "edad": 300,
+        "kanji": "坂井時風",
         "countC" : "5,246,639",
+        "countS" : [{
+            "firstcount" : ["507,025 (base)", "3,042,150 (5x empowered)", "5,246,639 (10x empowered)"]
+        }],
         "especie" : "Humano Modificado(ACE)",
         "img" : "https://i.imgur.com/qYWv9ZV.png",
         "Arma" : "Longs Sword"},
 
         {"id":5,
         "nombre": "Sonohara Mizuka", 
-        "kanji": "" ,
+        "kanji": "園原水花",
         "edad": 300,
+        "personality": "Mizuka is a nice person and cares about others and would never resort to taking a life. She was disgusted by killing and even more disgusted by herself for killing others. She is also soft-spoken and will constantly say sorry, taking the simplest things, like the hands of Althing groping her, as punishment. This is especially shows 300 years ago, as she is still just as quiet and easily bullied, her main aggressor being Taketora. Mizuka believes that if she becomes a soldier it would allow her to still be near Licht and be protected by him from her bullies. This relationship is pointed out by Jail as being an 'unhealthy dependence'. ",
         "countC" : "32000",
+        "countS" : [{
+            "firstcount" : ["16000", "32000 (empowered)"]
+        }],
         "especie" : "Humano Modificado(ACE)",
         "img" : "https://i.imgur.com/F1fYyUB.png",
         "Arma" : "Fire Guns"},
 
         {"id":6,
         "nombre": "Pele Poporo", 
-        "kanji": "" ,
+        "personality": "Gespenst was first introduced as a mild and cunning subordinate who enjoys teasing his superior officer when she went overboard and showed her panties. However, from the pre-Abandonment War onward, Gespenst begins to show a more cold personality towards his comrade and is willing to kill a Special Service member just because the man displeases him. It is later revealed that he is the Colonel-General of the Special Service. Like most members of the Special Service, Gespenst could easily conceal his cold and ruthless personality but would often display them against enemies and allies alike. " ,
         "edad": 300,
+        "kanji": "ゲシュペンス=ゼレーゲン",
         "countC" : "120",
+        "countS" : [{
+            "firstcount" : ["120 (possibly fake)"]
+        }],
         "especie" : "Humano",
         "img" : "https://i.imgur.com/fCV8G8b.png",
         "Arma" : "Glock 17"},
 
         {"id":7,
-        "nombre": "Sakai Tokikaze",
-        "kanji": "" ,
-        "edad": 300,
-        "countC" : "507,025",
-        "especie" : "Humano Modificado(ACE)",
-        "img" : "https://i.imgur.com/KMY1TEt.png",
-        "Arma" : "Short Sword"},
-
-        {"id":8,
         "nombre": "Schmelman Bach", 
-        "kanji": "" ,
+        "kanji": "シュメルマン=バッハ" ,
         "edad": 320,
-        "countC" : "0, Its a Original Ballot Holder",
+        "personality": "Schmelman is generally portrayed as a calm and collected individual, rarely letting his emotions surface and able to adapt to situations. However, despite the fact Schmelman showed himself to be calm and always smiling, he is also extremely violent once his bloodlust has taken over, as demonstrated when he killed his mother. ",
+        "countC" : "0",
+        "countS" : [{
+            "firstcount" : ["0, Its a Original Ballot Holder"]
+        }],
         "especie" : "Humano",
         "img" : "https://i.imgur.com/T0ZeoBx.png",
         "Arma" : "Its born power"},
 
-        {"id":9,
+        {"id":8,
         "nombre": "Jail murdoch", 
-        "kanji": "" ,
+        "kanji": "ジェイル＝マードック" ,
         "edad": 39,
+        "personality": "Jail is very detail-oriented, making him a potent soldier and a capable combatant. His conviction is the key component of his personality and ends up being a driving force of his character development. This eventually leads him to make decisions based on his deep-seated sense of justice. ",
         "countC" : "325000",
+        "countS" : [{
+            "firstcount" : ["900 (fake)", "12500 (former)", "12498 (former)", "12496 (former)", "45000 (former, empowered)", "1 (former)", "325000 (current)"]
+        }],
         "especie" : "Humano",
         "img" : "https://i.imgur.com/TJgp3aQ.png",
         "Arma" : "Yours Creations for ballot holder"},
 
-        {"id":10,
+        {"id":9,
         "nombre": "Taketora Doan", 
-        "kanji": "" ,
+        "kanji": "道安武虎" ,
         "edad": 300,
-        "countC" : "122546",
+        "personality": "He may come off as rude and dangerous, but when it comes to protecting those he cares for, Taketora will not hesitant to make those in the wrong suffer. And while says he hates Licht, he has a habit in coming to his aid when needed. ",
+        "countC" : "612730",
+        "countS" : [{
+            "firstcount" : ["122546 (base)", "612730 (empowered)"]
+        }],
         "especie" : "Humano Modificado",
         "img" : "https://i.imgur.com/jYqZHb3.png",
         "Arma" : "Orb of gravity"},
 
-        {"id":11,
+        {"id":10,
         "nombre": "Tsukina Farrow", 
-        "kanji": "" ,
+        "kanji": "月菜=ファロウ" ,
         "edad": 100,
+        "personality": "Tsukina is known to be a calm and reserved individual. She often displays a composed and thoughtful attitude in various situations. While she may initially come across as distant, she also has a kind and understanding side. Her personality unfolds as the story progresses, revealing her motivations, fears, and desires. It's important to note that a character's personality can undergo changes throughout the narrative, and information may vary based on the character's development in the manga.",
         "countC" : "None",
+        "countS" : [{
+            "firstcount" : ["None"]
+        }],
         "especie" : "Humano",
         "img" : "https://i.imgur.com/52YeGgQ.png",
         "Arma" : "none"}
